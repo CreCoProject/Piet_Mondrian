@@ -65,10 +65,26 @@ https://www.pinterest.de/cfallax/artists-multiples-and-editioned-work/
 https://experimentalstudio.ca/extendedpracticeslevel1/2019/03/25/artist-multiples/
 https://www.artsy.net/gene/artist-merchandise-and-multiples
 
-## Induividualastion in Art
+## The Induividual Art-Work
+https://www.pinterest.de/pin/the-contours-of-individual-men-and-women--684758318314977610/
+https://www.quora.com/How-does-an-individual-create-a-work-of-art
+https://www.nga.gov/learn/teachers/lessons-activities/uncovering-america/expressing-individual.html
+https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html
+https://www.cauliflowercards.co.uk/individual-project
+
+## Random Creations in Computer Art
+https://in.pinterest.com/pin/random-creations-artwork--863283822311561433/
+https://www.linkedin.com/pulse/random-rare-digital-art-generator-joe-chiappetta
+https://archive.bridgesmathart.org/2019/bridges2019-569.pdf
+https://www.animatedsoftware.com/random/randomar.htm
+https://www.randomart.co.uk/
+
+## The Role of the Audience in Computer Art
+https://ore.exeter.ac.uk/repository/bitstream/handle/10871/121537/Maas%202019_publication.pdf?sequence=3&isAllowed=y
+https://www.meer.com/en/34754-a-new-audience-in-the-digital-age
+https://viralart.vandalog.com/read/chapter/audience-and-public-in-the-digital-age/
+https://medium.com/@demzou.art/looking-at-technology-in-performances-through-the-lens-of-audience-participation-research-e5f28e94ccd6
+https://www.brown.edu/Departments/Music/faculty/winkler/papers/Audience_Participation_2000.pdf
 
 
-The Induividual Art-Work
-Random Creations in Computer Art
-The Role of the Artist in Computer Art
-The Role of the Audience in Computer Art
+

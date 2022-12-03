@@ -13,9 +13,27 @@ by the Random Creation and the Choosing or called Supervision trougth
 the User.
 So See may Art https://www.deviantart.com/crecoproject
 
-Computer Art
-Piet Mondrian
-Piet Mondrian Computer Art
+## Computer Art
+https://en.wikipedia.org/wiki/Computer_art
+https://www.creativebloq.com/computer-arts-magazine
+https://www.artatberlin.com/en/tag/computer-art-contemporary-art-at-art-at-berlin/
+https://www.geeksforgeeks.org/what-is-computer-art/
+https://www.widewalls.ch/magazine/computer-generated-art-10-artworks
+
+## Piet Mondrian
+https://de.wikipedia.org/wiki/Piet_Mondrian
+https://www.wikiart.org/de/piet-mondrian
+https://www.hausaufderalb.de/piet-mondrian
+https://artinwords.de/piet-mondrian/
+https://www.britannica.com/biography/Piet-Mondrian
+
+## Piet Mondrian Computer Art
+https://pixels.com/art/digital+art/piet+mondrian
+http://dada.compart-bremen.de/item/artwork/5
+https://www.researchgate.net/figure/Computer-sketch-of-Mondrians-Composition-With-Red-Blue-Yellow-And-White-Nom-III-1939_fig2_238736181
+https://www.oreilly.com/library/view/thinking-recursively-with/9780471701460/9780471701460_mondrian_and_computer_art.html
+http://thekidsroad.com/assets/images/blog/blog-content/mushup-remix/Noll_Mondrian.pdf
+
 Piet Programming Language
 Abstractness of Computer Art
 The Process of Computer Art

@@ -34,12 +34,40 @@ https://www.researchgate.net/figure/Computer-sketch-of-Mondrians-Composition-Wit
 https://www.oreilly.com/library/view/thinking-recursively-with/9780471701460/9780471701460_mondrian_and_computer_art.html
 http://thekidsroad.com/assets/images/blog/blog-content/mushup-remix/Noll_Mondrian.pdf
 
-Piet Programming Language
-Abstractness of Computer Art
-The Process of Computer Art
-How to model the World in Code
-Multiple Art
-Induividualastion in Art
+## Piet Programming Language
+https://en.wikipedia.org/wiki/Esoteric_programming_language#Piet
+https://de.wikipedia.org/wiki/Piet_(Programmiersprache)
+https://www.dangermouse.net/esoteric/piet.html
+https://www.dangermouse.net/esoteric/piet/samples.html
+https://esolangs.org/wiki/Piet
+
+## Abstractness of Computer Art
+https://www.researchgate.net/publication/228763696_Abstraction_Mechanisms_in_Computer_Art
+http://www.kenfeingold.com/Abstraction_Mechanisms_in_Computer_Art.pdf
+https://www.widewalls.ch/magazine/abstract-digital-art
+https://alexkondov.com/art-details-and-abstractions/
+https://en.wikipedia.org/wiki/Abstraction_(computer_science)
+
+## The Process of Computer Art
+https://vanda-production-assets.s3.amazonaws.com/2022/06/14/08/29/06/53bd8590-a80e-4429-a0de-11445b5e699d/JN0143_PDP_TopicBoxes_ComputerArt_A4_v2.pdf
+
+## How to model the World in Code
+https://paperswithcode.com/paper/world-models
+https://paperswithcode.com/paper/modeling-worlds-in-text
+https://towardsdatascience.com/building-a-better-model-world-3-ways-we-misrepresent-the-world-in-algorithms-ad27318654b6
+https://worldmodels.github.io/
+https://dl.acm.org/doi/abs/10.1145/3510455.3512771
+
+## Multiple Art
+https://en.wikipedia.org/wiki/Artist%27s_multiple
+https://www.tate.org.uk/art/art-terms/m/multiple
+https://www.pinterest.de/cfallax/artists-multiples-and-editioned-work/
+https://experimentalstudio.ca/extendedpracticeslevel1/2019/03/25/artist-multiples/
+https://www.artsy.net/gene/artist-merchandise-and-multiples
+
+## Induividualastion in Art
+
+
 The Induividual Art-Work
 Random Creations in Computer Art
 The Role of the Artist in Computer Art
